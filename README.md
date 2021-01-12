@@ -43,8 +43,7 @@ ddlfinalproject.txt ------------------------ DDL file in txt format for backup
   
 163360 Crime Records Stored with Google Cloud Platform SQL Database  
   
-MongoDB.pdf ----------------------------- PDF file for prototype MongoDB database with TOP20 crimes based on District, Community  
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; and Location  
+MongoDB.pdf ----------------------------- PDF file for prototype MongoDB database with TOP20 crimes based on District, Community and Location  
 ### Data Visualization & Insights
 Crime Tableau Visualization.twbx ------------------ Tableau file with visualization based on crime records   
 Crime Tableau Visualization2.twbx  ----------------- Tableau file with visualization based on crime records   
